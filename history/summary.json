@@ -22,19 +22,19 @@
     "url": "$BODENSEE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bodensee",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 490,
-    "timeDay": 525,
-    "timeWeek": 490,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "up",
+    "uptime": "98.38%",
+    "uptimeDay": "90.40%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 496,
+    "timeDay": 530,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 138
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$GITLAB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 738,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "status": "up",
+    "uptime": "98.39%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
+    "time": 612,
+    "timeDay": 640,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 138
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "$GROCY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grocy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 714,
-    "timeWeek": 664,
-    "timeMonth": 664,
-    "timeYear": 664,
+    "status": "up",
+    "uptime": "98.39%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
+    "time": 665,
+    "timeDay": 693,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 137
     }
   }
 ]
