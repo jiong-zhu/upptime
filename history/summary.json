@@ -4,19 +4,19 @@
     "url": "https://www.jiongzhu.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.jiongzhu.net.ico",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 253,
-    "timeWeek": 198,
-    "timeMonth": 171,
+    "timeDay": 238,
+    "timeWeek": 199,
+    "timeMonth": 172,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2023-10-30": 2
+      "2023-10-30": 13
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-10-30": 1212,
+      "2023-10-30": 1225,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-10-30": 1212,
+      "2023-10-30": 1225,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
