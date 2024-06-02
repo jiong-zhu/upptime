@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 227,
-    "timeWeek": 204,
+    "timeDay": 149,
+    "timeWeek": 202,
     "timeMonth": 180,
     "timeYear": 165,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.74%",
-    "time": 788,
-    "timeDay": 1072,
-    "timeWeek": 664,
-    "timeMonth": 829,
+    "time": 787,
+    "timeDay": 674,
+    "timeWeek": 643,
+    "timeMonth": 831,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2024-05-02": 17,
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "52.37%",
+    "uptime": "52.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.21%",
+    "uptimeYear": "0.00%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 229,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 93,
+      "2024-06-02": 93,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -441,8 +442,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   },
   {
@@ -457,9 +457,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.86%",
     "time": 692,
-    "timeDay": 624,
-    "timeWeek": 683,
-    "timeMonth": 724,
+    "timeDay": 519,
+    "timeWeek": 622,
+    "timeMonth": 703,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2024-05-06": 118,
@@ -485,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "44.75%",
+    "uptime": "44.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -494,9 +494,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 398,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2024-06-01": 93,
+      "2024-06-02": 93,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -859,8 +860,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   }
 ]
