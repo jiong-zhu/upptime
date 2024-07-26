@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 177,
-    "timeWeek": 189,
-    "timeMonth": 175,
-    "timeYear": 171,
+    "timeDay": 162,
+    "timeWeek": 185,
+    "timeMonth": 174,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 768,
-    "timeDay": 678,
-    "timeWeek": 685,
-    "timeMonth": 663,
-    "timeYear": 758,
+    "timeDay": 744,
+    "timeWeek": 693,
+    "timeMonth": 664,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2024-06-20": 23,
       "2024-05-02": 17,
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "54.51%",
+    "uptime": "54.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.32%",
+    "uptimeYear": "12.60%",
     "time": 117,
-    "timeDay": 53,
-    "timeWeek": 41,
+    "timeDay": 73,
+    "timeWeek": 45,
     "timeMonth": 45,
-    "timeYear": 45,
+    "timeYear": 46,
     "dailyMinutesDown": {
       "2024-06-09": 122,
       "2024-06-08": 1440,
@@ -387,8 +387,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 1440,
-      "2023-07-27": 1440
+      "2023-07-28": 1440
     }
   },
   {
@@ -402,11 +401,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 679,
-    "timeDay": 582,
-    "timeWeek": 563,
-    "timeMonth": 636,
-    "timeYear": 693,
+    "time": 680,
+    "timeDay": 801,
+    "timeWeek": 597,
+    "timeMonth": 646,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2024-05-06": 118,
       "2024-02-05": 302,
@@ -423,18 +422,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "41.83%",
+    "uptime": "41.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 480,
+    "time": 478,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 93,
+      "2024-07-26": 86,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -797,8 +797,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 1440,
-      "2023-07-27": 1440
+      "2023-07-28": 1440
     }
   }
 ]
