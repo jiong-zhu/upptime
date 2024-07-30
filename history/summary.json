@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 203,
-    "timeWeek": 184,
-    "timeMonth": 177,
+    "timeDay": 166,
+    "timeWeek": 180,
+    "timeMonth": 176,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 769,
-    "timeDay": 1022,
-    "timeWeek": 758,
-    "timeMonth": 688,
-    "timeYear": 761,
+    "timeDay": 722,
+    "timeWeek": 791,
+    "timeMonth": 694,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2024-06-20": 23,
       "2024-05-02": 17,
@@ -59,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "54.73%",
+    "uptime": "54.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.42%",
-    "time": 116,
-    "timeDay": 70,
-    "timeWeek": 54,
-    "timeMonth": 47,
+    "uptimeYear": "13.69%",
+    "time": 115,
+    "timeDay": 73,
+    "timeWeek": 64,
+    "timeMonth": 49,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2024-06-09": 122,
@@ -383,8 +383,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -398,11 +397,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 680,
-    "timeDay": 1239,
-    "timeWeek": 801,
-    "timeMonth": 673,
-    "timeYear": 697,
+    "time": 689,
+    "timeDay": 5526,
+    "timeWeek": 1560,
+    "timeMonth": 850,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2024-05-06": 118,
       "2024-02-05": 302,
@@ -419,7 +418,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "41.63%",
+    "uptime": "41.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -430,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-29": 96,
+      "2024-07-30": 94,
+      "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -793,8 +793,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   }
 ]
