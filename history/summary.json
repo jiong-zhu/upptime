@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 338,
-    "timeWeek": 184,
-    "timeMonth": 208,
+    "time": 170,
+    "timeDay": 278,
+    "timeWeek": 192,
+    "timeMonth": 210,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bodensee",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 789,
-    "timeDay": 517,
-    "timeWeek": 689,
-    "timeMonth": 945,
+    "timeDay": 664,
+    "timeWeek": 665,
+    "timeMonth": 937,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2024-09-12": 46,
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "57.73%",
+    "uptime": "57.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "29.58%",
+    "uptimeYear": "29.85%",
     "time": 61,
-    "timeDay": 20,
+    "timeDay": 73,
     "timeWeek": 47,
     "timeMonth": 65,
-    "timeYear": 50,
+    "timeYear": 51,
     "dailyMinutesDown": {
       "2024-09-12": 45,
       "2024-06-09": 122,
@@ -325,8 +325,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -340,11 +339,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
-    "time": 705,
-    "timeDay": 411,
-    "timeWeek": 694,
-    "timeMonth": 850,
-    "timeYear": 715,
+    "time": 707,
+    "timeDay": 1468,
+    "timeWeek": 808,
+    "timeMonth": 870,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2024-09-12": 44,
       "2024-05-06": 118,
@@ -360,7 +359,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "38.86%",
+    "uptime": "38.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -371,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 105,
+      "2024-09-27": 105,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -734,8 +734,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   }
 ]
