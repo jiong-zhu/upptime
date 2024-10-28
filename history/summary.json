@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 121,
-    "timeWeek": 210,
-    "timeMonth": 182,
+    "timeDay": 213,
+    "timeWeek": 209,
+    "timeMonth": 184,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.80%",
-    "time": 778,
-    "timeDay": 475,
-    "timeWeek": 747,
-    "timeMonth": 670,
-    "timeYear": 764,
+    "time": 779,
+    "timeDay": 1231,
+    "timeWeek": 801,
+    "timeMonth": 696,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-09-30": 49,
       "2024-09-12": 46,
@@ -59,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "59.16%",
+    "uptime": "59.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.07%",
+    "uptimeYear": "38.35%",
     "time": 48,
-    "timeDay": 20,
-    "timeWeek": 38,
-    "timeMonth": 40,
+    "timeDay": 73,
+    "timeWeek": 39,
+    "timeMonth": 42,
     "timeYear": 48,
     "dailyMinutesDown": {
       "2024-09-12": 45,
@@ -294,8 +294,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   },
   {
@@ -309,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 712,
-    "timeDay": 433,
-    "timeWeek": 673,
-    "timeMonth": 641,
-    "timeYear": 729,
+    "time": 713,
+    "timeDay": 864,
+    "timeWeek": 691,
+    "timeMonth": 640,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2024-09-12": 44,
       "2024-05-06": 118,
@@ -329,7 +328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "37.56%",
+    "uptime": "37.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -340,7 +339,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 112,
+      "2024-10-28": 110,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -703,8 +703,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   }
 ]
