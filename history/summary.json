@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 258,
-    "timeWeek": 192,
-    "timeMonth": 186,
-    "timeYear": 181,
+    "timeDay": 154,
+    "timeWeek": 187,
+    "timeMonth": 185,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
-    "time": 764,
-    "timeDay": 1450,
-    "timeWeek": 775,
-    "timeMonth": 729,
+    "time": 763,
+    "timeDay": 526,
+    "timeWeek": 796,
+    "timeMonth": 725,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2024-11-03": 18,
@@ -59,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "59.98%",
+    "uptime": "60.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.28%",
+    "uptimeYear": "43.55%",
     "time": 49,
-    "timeDay": 71,
-    "timeWeek": 56,
-    "timeMonth": 52,
+    "timeDay": 6,
+    "timeWeek": 54,
+    "timeMonth": 50,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2024-09-12": 45,
@@ -275,8 +275,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -290,11 +289,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 698,
-    "timeDay": 813,
-    "timeWeek": 655,
-    "timeMonth": 672,
-    "timeYear": 738,
+    "time": 696,
+    "timeDay": 349,
+    "timeWeek": 635,
+    "timeMonth": 658,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2024-09-12": 44,
       "2024-05-06": 118,
@@ -310,18 +309,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "36.80%",
+    "uptime": "36.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 407,
+    "time": 395,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-15": 112,
+      "2024-11-16": 109,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -684,8 +684,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   }
 ]
