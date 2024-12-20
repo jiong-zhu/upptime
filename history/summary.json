@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 148,
-    "timeWeek": 176,
-    "timeMonth": 181,
+    "timeDay": 177,
+    "timeWeek": 170,
+    "timeMonth": 183,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "bodensee",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "46.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.41%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.70%",
     "time": 772,
-    "timeDay": 357,
-    "timeWeek": 668,
-    "timeMonth": 689,
+    "timeDay": 684,
+    "timeWeek": 664,
+    "timeMonth": 669,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2024-12-19": 44,
@@ -59,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "61.33%",
-    "uptimeDay": "46.97%",
+    "uptime": "61.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.42%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "52.45%",
+    "uptimeYear": "52.72%",
     "time": 48,
     "timeDay": 6,
-    "timeWeek": 47,
-    "timeMonth": 45,
+    "timeWeek": 41,
+    "timeMonth": 42,
     "timeYear": 48,
     "dailyMinutesDown": {
       "2024-12-19": 44,
@@ -243,8 +243,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -254,14 +253,14 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "47.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.43%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "99.76%",
-    "time": 701,
-    "timeDay": 748,
-    "timeWeek": 702,
-    "timeMonth": 640,
+    "time": 700,
+    "timeDay": 371,
+    "timeWeek": 628,
+    "timeMonth": 623,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2024-12-19": 44,
@@ -278,7 +277,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "35.51%",
+    "uptime": "35.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -289,7 +288,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-19": 112,
+      "2024-12-20": 106,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -652,8 +652,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   }
 ]
