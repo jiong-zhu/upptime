@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 252,
-    "timeWeek": 181,
-    "timeMonth": 176,
+    "timeDay": 234,
+    "timeWeek": 188,
+    "timeMonth": 178,
     "timeYear": 183,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.71%",
     "time": 774,
-    "timeDay": 367,
-    "timeWeek": 654,
-    "timeMonth": 640,
-    "timeYear": 756,
+    "timeDay": 580,
+    "timeWeek": 690,
+    "timeMonth": 637,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-01-02": 22,
       "2024-12-19": 44,
@@ -58,14 +58,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "62.30%",
+    "uptime": "62.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "59.30%",
+    "uptimeYear": "59.57%",
     "time": 48,
-    "timeDay": 20,
-    "timeWeek": 50,
+    "timeDay": 69,
+    "timeWeek": 59,
     "timeMonth": 44,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -217,8 +217,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -232,10 +231,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "99.76%",
-    "time": 701,
-    "timeDay": 453,
-    "timeWeek": 686,
-    "timeMonth": 605,
+    "time": 702,
+    "timeDay": 832,
+    "timeWeek": 754,
+    "timeMonth": 604,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2024-12-19": 44,
@@ -252,7 +251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "34.62%",
+    "uptime": "34.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -263,7 +262,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-13": 111,
+      "2025-01-14": 102,
+      "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -626,8 +626,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   }
 ]
