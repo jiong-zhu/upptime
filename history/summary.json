@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 149,
-    "timeWeek": 166,
-    "timeMonth": 174,
+    "time": 178,
+    "timeDay": 166,
+    "timeWeek": 165,
+    "timeMonth": 172,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.65%",
-    "time": 755,
-    "timeDay": 804,
-    "timeWeek": 812,
-    "timeMonth": 723,
-    "timeYear": 732,
+    "time": 757,
+    "timeDay": 1618,
+    "timeWeek": 936,
+    "timeMonth": 746,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2025-02-02": 718,
       "2025-01-02": 22,
@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "63.28%",
+    "uptime": "63.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "66.83%",
+    "uptimeYear": "67.10%",
     "time": 49,
     "timeDay": 72,
     "timeWeek": 66,
@@ -188,8 +188,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -203,11 +202,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.69%",
-    "time": 720,
-    "timeDay": 1076,
-    "timeWeek": 862,
-    "timeMonth": 786,
-    "timeYear": 700,
+    "time": 721,
+    "timeDay": 803,
+    "timeWeek": 863,
+    "timeMonth": 789,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2025-02-02": 717,
       "2024-12-19": 44,
@@ -222,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "33.68%",
+    "uptime": "33.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -233,7 +232,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 107,
+      "2025-02-11": 105,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -596,8 +596,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   }
 ]
