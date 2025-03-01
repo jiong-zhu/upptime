@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 170,
-    "timeWeek": 172,
-    "timeMonth": 169,
-    "timeYear": 182,
+    "timeDay": 278,
+    "timeWeek": 178,
+    "timeMonth": 172,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.65%",
-    "time": 757,
-    "timeDay": 550,
-    "timeWeek": 568,
-    "timeMonth": 705,
-    "timeYear": 735,
+    "time": 756,
+    "timeDay": 476,
+    "timeWeek": 528,
+    "timeMonth": 702,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-02-24": 21,
       "2025-02-02": 718,
@@ -57,15 +57,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "63.91%",
+    "uptime": "63.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "71.76%",
+    "uptimeYear": "72.31%",
     "time": 49,
-    "timeDay": 6,
-    "timeWeek": 37,
-    "timeMonth": 55,
+    "timeDay": 20,
+    "timeWeek": 30,
+    "timeMonth": 52,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-02-02": 717,
@@ -171,8 +171,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -186,11 +185,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.68%",
-    "time": 722,
-    "timeDay": 352,
-    "timeWeek": 509,
-    "timeMonth": 686,
-    "timeYear": 701,
+    "time": 723,
+    "timeDay": 507,
+    "timeWeek": 500,
+    "timeMonth": 685,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2025-02-24": 21,
       "2025-02-02": 717,
@@ -206,10 +205,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "33.10%",
+    "uptime": "33.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -217,7 +216,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 109,
+      "2025-03-01": 115,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -580,8 +580,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
