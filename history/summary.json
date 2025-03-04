@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 172,
-    "timeWeek": 186,
+    "timeDay": 182,
+    "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -25,14 +25,14 @@
     "status": "up",
     "uptime": "99.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.66%",
-    "time": 756,
-    "timeDay": 540,
-    "timeWeek": 561,
-    "timeMonth": 684,
-    "timeYear": 723,
+    "time": 757,
+    "timeDay": 977,
+    "timeWeek": 651,
+    "timeMonth": 692,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-02-24": 21,
       "2025-02-02": 718,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "64.01%",
+    "uptime": "64.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.86%",
+    "uptimeYear": "73.13%",
     "time": 49,
-    "timeDay": 6,
-    "timeWeek": 30,
-    "timeMonth": 51,
+    "timeDay": 51,
+    "timeWeek": 37,
+    "timeMonth": 50,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-02-02": 717,
@@ -167,8 +167,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -179,14 +178,14 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.68%",
     "time": 724,
-    "timeDay": 338,
-    "timeWeek": 528,
-    "timeMonth": 656,
-    "timeYear": 699,
+    "timeDay": 727,
+    "timeWeek": 553,
+    "timeMonth": 654,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-02-24": 21,
       "2025-02-02": 717,
@@ -202,7 +201,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "33.00%",
+    "uptime": "32.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -213,7 +212,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-03": 112,
+      "2025-03-04": 111,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -576,8 +576,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   }
 ]
