@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 227,
-    "timeWeek": 184,
-    "timeMonth": 194,
+    "timeDay": 263,
+    "timeWeek": 203,
+    "timeMonth": 197,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.53%",
-    "time": 745,
-    "timeDay": 712,
-    "timeWeek": 816,
-    "timeMonth": 684,
+    "time": 744,
+    "timeDay": 453,
+    "timeWeek": 767,
+    "timeMonth": 677,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-03-12": 717,
@@ -57,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "64.54%",
+    "uptime": "64.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "77.38%",
-    "time": 50,
-    "timeDay": 74,
-    "timeWeek": 64,
-    "timeMonth": 51,
-    "timeYear": 50,
+    "uptimeYear": "77.65%",
+    "time": 49,
+    "timeDay": 6,
+    "timeWeek": 54,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2025-03-12": 716,
       "2025-02-02": 717,
@@ -152,8 +152,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -167,10 +166,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.55%",
-    "time": 731,
-    "timeDay": 651,
-    "timeWeek": 942,
-    "timeMonth": 698,
+    "time": 730,
+    "timeDay": 367,
+    "timeWeek": 861,
+    "timeMonth": 678,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-03-12": 715,
@@ -188,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "32.47%",
+    "uptime": "32.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -199,7 +198,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 112,
+      "2025-03-21": 114,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -562,8 +562,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   }
 ]
