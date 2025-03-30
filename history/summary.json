@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 173,
-    "timeWeek": 241,
-    "timeMonth": 215,
+    "timeDay": 156,
+    "timeWeek": 244,
+    "timeMonth": 213,
     "timeYear": 183,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.53%",
     "time": 743,
-    "timeDay": 699,
-    "timeWeek": 603,
-    "timeMonth": 690,
-    "timeYear": 729,
+    "timeDay": 1106,
+    "timeWeek": 681,
+    "timeMonth": 703,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2025-03-12": 717,
       "2025-02-24": 21,
@@ -57,15 +57,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "64.84%",
+    "uptime": "64.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "79.85%",
+    "uptimeYear": "80.12%",
     "time": 50,
-    "timeDay": 71,
+    "timeDay": 73,
     "timeWeek": 54,
-    "timeMonth": 54,
+    "timeMonth": 55,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2025-03-12": 716,
@@ -143,8 +143,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -158,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.55%",
-    "time": 712,
-    "timeDay": 820,
-    "timeWeek": 654,
+    "time": 713,
+    "timeDay": 732,
+    "timeWeek": 675,
     "timeMonth": 718,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-03-12": 715,
       "2025-02-24": 21,
@@ -179,10 +178,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "32.20%",
+    "uptime": "32.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -190,7 +189,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 112,
+      "2025-03-30": 121,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -553,8 +553,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   }
 ]
