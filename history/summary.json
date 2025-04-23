@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 259,
-    "timeWeek": 229,
-    "timeMonth": 219,
+    "timeDay": 209,
+    "timeWeek": 227,
+    "timeMonth": 222,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.52%",
     "time": 742,
-    "timeDay": 801,
-    "timeWeek": 612,
-    "timeMonth": 632,
+    "timeDay": 707,
+    "timeWeek": 605,
+    "timeMonth": 636,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-04-02": 42,
@@ -58,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "65.61%",
+    "uptime": "65.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.42%",
+    "uptimeYear": "86.70%",
     "time": 49,
-    "timeDay": 70,
+    "timeDay": 74,
     "timeWeek": 44,
-    "timeMonth": 47,
+    "timeMonth": 48,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-03-12": 716,
@@ -120,8 +120,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   },
   {
@@ -135,10 +134,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 721,
-    "timeDay": 981,
-    "timeWeek": 685,
-    "timeMonth": 724,
+    "time": 705,
+    "timeDay": 819,
+    "timeWeek": 695,
+    "timeMonth": 732,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-03-12": 715,
@@ -156,7 +155,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "31.50%",
+    "uptime": "31.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -167,7 +166,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 117,
+      "2025-04-23": 118,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -530,8 +530,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   }
 ]
