@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 185,
-    "timeWeek": 235,
-    "timeMonth": 216,
+    "timeWeek": 237,
+    "timeMonth": 214,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.07%",
     "time": 724,
-    "timeDay": 549,
-    "timeWeek": 635,
-    "timeMonth": 677,
+    "timeDay": 709,
+    "timeWeek": 673,
+    "timeMonth": 685,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-06-02": 87,
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "67.15%",
+    "uptime": "67.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
     "time": 50,
-    "timeDay": 62,
-    "timeWeek": 64,
-    "timeMonth": 56,
+    "timeDay": 61,
+    "timeWeek": 71,
+    "timeMonth": 57,
     "timeYear": 51,
     "dailyMinutesDown": {
       "2025-05-19": 96,
@@ -112,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.14%",
-    "time": 722,
-    "timeDay": 692,
-    "timeWeek": 765,
-    "timeMonth": 721,
+    "time": 724,
+    "timeDay": 1475,
+    "timeWeek": 884,
+    "timeMonth": 756,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-07-14": 17,
@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "28.96%",
+    "uptime": "28.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -152,7 +152,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 151,
+      "2025-07-28": 147,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -515,8 +516,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   }
 ]
