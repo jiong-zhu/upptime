@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 395,
-    "timeWeek": 253,
+    "timeDay": 198,
+    "timeWeek": 252,
     "timeMonth": 310,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "bodensee",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.07%",
-    "time": 736,
-    "timeDay": 3552,
-    "timeWeek": 1648,
+    "time": 737,
+    "timeDay": 3567,
+    "timeWeek": 1661,
     "timeMonth": 1051,
-    "timeYear": 735,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-09-03": 12,
       "2025-08-22": 21,
       "2025-06-02": 87,
       "2025-05-19": 97,
@@ -57,8 +56,7 @@
       "2024-11-03": 18,
       "2024-09-30": 49,
       "2024-09-12": 46,
-      "2024-09-05": 18,
-      "2024-09-04": 18
+      "2024-09-05": 18
     }
   },
   {
@@ -67,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "68.18%",
+    "uptime": "68.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
     "time": 51,
-    "timeDay": 48,
-    "timeWeek": 54,
+    "timeDay": 61,
+    "timeWeek": 52,
     "timeMonth": 56,
     "timeYear": 51,
     "dailyMinutesDown": {
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.13%",
-    "time": 745,
-    "timeDay": 735,
-    "timeWeek": 709,
-    "timeMonth": 956,
-    "timeYear": 736,
+    "time": 743,
+    "timeDay": 852,
+    "timeWeek": 708,
+    "timeMonth": 954,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-08-04": 59,
       "2025-07-14": 17,
@@ -154,7 +152,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 1176,
+      "2025-09-04": 110,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -517,8 +516,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]
