@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 398,
-    "timeWeek": 288,
-    "timeMonth": 316,
-    "timeYear": 219,
+    "time": 209,
+    "timeDay": 572,
+    "timeWeek": 336,
+    "timeMonth": 328,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.08%",
     "time": 739,
-    "timeDay": 836,
-    "timeWeek": 1667,
-    "timeMonth": 1042,
+    "timeDay": 743,
+    "timeWeek": 1653,
+    "timeMonth": 1043,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-08-22": 21,
@@ -64,14 +64,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "68.29%",
+    "uptime": "68.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
     "time": 51,
-    "timeDay": 79,
-    "timeWeek": 55,
+    "timeDay": 60,
+    "timeWeek": 51,
     "timeMonth": 56,
     "timeYear": 51,
     "dailyMinutesDown": {
@@ -110,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
-    "time": 743,
-    "timeDay": 639,
-    "timeWeek": 699,
-    "timeMonth": 776,
+    "time": 741,
+    "timeDay": 746,
+    "timeWeek": 669,
+    "timeMonth": 774,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-08-04": 59,
@@ -140,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "27.96%",
+    "uptime": "27.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -151,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-08": 119,
+      "2025-09-09": 115,
+      "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
@@ -514,8 +515,7 @@
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
-      "2024-09-10": 1440,
-      "2024-09-09": 1440
+      "2024-09-10": 1440
     }
   }
 ]
