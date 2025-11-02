@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 215,
-    "timeWeek": 239,
+    "timeDay": 272,
+    "timeWeek": 251,
     "timeMonth": 218,
-    "timeYear": 223,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "90.51%",
     "uptimeYear": "97.24%",
     "time": 737,
-    "timeDay": 521,
-    "timeWeek": 583,
-    "timeMonth": 756,
+    "timeDay": 785,
+    "timeWeek": 599,
+    "timeMonth": 752,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2025-10-17": 216,
@@ -69,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "68.22%",
+    "uptime": "68.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.57%",
-    "uptimeYear": "90.63%",
+    "uptimeMonth": "38.27%",
+    "uptimeYear": "90.35%",
     "time": 51,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 61,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2025-11-01": 123,
+      "2025-11-02": 126,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -136,10 +137,10 @@
     "uptimeMonth": "90.51%",
     "uptimeYear": "97.28%",
     "time": 743,
-    "timeDay": 404,
-    "timeWeek": 647,
+    "timeDay": 818,
+    "timeWeek": 658,
     "timeMonth": 714,
-    "timeYear": 734,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2025-10-17": 218,
       "2025-10-16": 1440,
@@ -171,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "26.79%",
+    "uptime": "26.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -182,7 +183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 123,
+      "2025-11-02": 126,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -545,8 +547,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
