@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 215,
-    "timeWeek": 195,
-    "timeMonth": 202,
+    "timeDay": 161,
+    "timeWeek": 179,
+    "timeMonth": 198,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.50%",
-    "time": 742,
-    "timeDay": 358,
-    "timeWeek": 529,
-    "timeMonth": 563,
+    "time": 738,
+    "timeDay": 841,
+    "timeWeek": 556,
+    "timeMonth": 569,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2026-01-05": 63,
@@ -56,8 +56,7 @@
       "2025-05-03": 411,
       "2025-05-02": 54,
       "2025-04-02": 42,
-      "2025-03-12": 717,
-      "2025-02-24": 21
+      "2025-03-12": 717
     }
   },
   {
@@ -66,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "62.68%",
+    "uptime": "62.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.67%",
+    "uptimeYear": "59.40%",
     "time": 52,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2026-02-23": 170,
+      "2026-02-24": 167,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -243,11 +243,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.52%",
-    "time": 720,
-    "timeDay": 404,
-    "timeWeek": 469,
+    "time": 721,
+    "timeDay": 853,
+    "timeWeek": 483,
     "timeMonth": 555,
-    "timeYear": 734,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2026-01-05": 62,
       "2025-12-03": 89,
@@ -269,8 +269,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 410,
-      "2025-03-12": 715,
-      "2025-02-24": 21
+      "2025-03-12": 715
     }
   },
   {
@@ -279,7 +278,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "24.61%",
+    "uptime": "24.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -290,7 +289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-23": 170,
+      "2026-02-24": 167,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -653,8 +653,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   }
 ]
