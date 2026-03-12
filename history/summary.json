@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 155,
-    "timeWeek": 171,
+    "timeDay": 136,
+    "timeWeek": 172,
     "timeMonth": 196,
-    "timeYear": 236,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.50%",
-    "time": 723,
-    "timeDay": 701,
-    "timeWeek": 487,
-    "timeMonth": 554,
+    "time": 722,
+    "timeDay": 558,
+    "timeWeek": 482,
+    "timeMonth": 557,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2026-01-05": 63,
@@ -55,8 +55,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 411,
       "2025-05-02": 54,
-      "2025-04-02": 42,
-      "2025-03-12": 717
+      "2025-04-02": 42
     }
   },
   {
@@ -65,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "61.97%",
+    "uptime": "61.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "55.29%",
+    "uptimeYear": "55.01%",
     "time": 52,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2026-03-11": 159,
+      "2026-03-12": 165,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -243,8 +243,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 378,
-      "2025-03-12": 716
+      "2025-05-03": 378
     }
   },
   {
@@ -259,9 +258,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.52%",
     "time": 718,
-    "timeDay": 237,
-    "timeWeek": 413,
-    "timeMonth": 552,
+    "timeDay": 542,
+    "timeWeek": 415,
+    "timeMonth": 557,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2026-01-05": 62,
@@ -283,8 +282,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 410,
-      "2025-03-12": 715
+      "2025-05-03": 410
     }
   },
   {
@@ -293,7 +291,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "24.33%",
+    "uptime": "24.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -304,7 +302,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 159,
+      "2026-03-12": 165,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -667,8 +666,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
