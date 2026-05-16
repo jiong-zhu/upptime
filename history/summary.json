@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 96,
-    "timeWeek": 149,
-    "timeMonth": 164,
+    "time": 218,
+    "timeDay": 101,
+    "timeWeek": 140,
+    "timeMonth": 161,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 710,
-    "timeDay": 580,
-    "timeWeek": 610,
-    "timeMonth": 551,
+    "timeDay": 892,
+    "timeWeek": 671,
+    "timeMonth": 559,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2026-01-05": 63,
@@ -58,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "61.05%",
+    "uptime": "61.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.94%",
-    "uptimeYear": "48.03%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "48.30%",
     "time": 56,
-    "timeDay": 82,
-    "timeWeek": 85,
-    "timeMonth": 73,
+    "timeDay": 79,
+    "timeWeek": 88,
+    "timeMonth": 74,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2026-04-27": 157,
@@ -262,8 +262,7 @@
       "2025-09-13": 137,
       "2025-05-19": 96,
       "2025-05-18": 467,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -278,9 +277,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 707,
-    "timeDay": 1132,
-    "timeWeek": 891,
-    "timeMonth": 671,
+    "timeDay": 751,
+    "timeWeek": 901,
+    "timeMonth": 675,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2026-01-05": 62,
@@ -305,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "23.27%",
+    "uptime": "23.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -316,7 +315,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 246,
+      "2026-05-16": 228,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -679,8 +679,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   }
 ]
