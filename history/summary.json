@@ -13,7 +13,7 @@
     "time": 219,
     "timeDay": 165,
     "timeWeek": 179,
-    "timeMonth": 166,
+    "timeMonth": 167,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -33,8 +33,8 @@
     "time": 707,
     "timeDay": 597,
     "timeWeek": 625,
-    "timeMonth": 600,
-    "timeYear": 715,
+    "timeMonth": 608,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-06-02": 87,
       "2025-08-22": 21,
@@ -56,16 +56,16 @@
     "url": "$KARLSRUHE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
-    "status": "down",
+    "status": "up",
     "uptime": "61.31%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "48.84%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "48.82%",
     "time": 56,
-    "timeDay": 59,
-    "timeWeek": 62,
-    "timeMonth": 74,
+    "timeDay": 72,
+    "timeWeek": 65,
+    "timeMonth": 77,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -261,7 +261,7 @@
       "2026-04-27": 157,
       "2026-05-17": 152,
       "2026-05-24": 242,
-      "2026-05-25": 5
+      "2026-05-25": 64
     }
   },
   {
@@ -278,8 +278,8 @@
     "time": 707,
     "timeDay": 762,
     "timeWeek": 786,
-    "timeMonth": 771,
-    "timeYear": 701,
+    "timeMonth": 788,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-07-14": 17,
       "2025-08-04": 59,
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 1368,
+      "2026-05-25": 1432,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
