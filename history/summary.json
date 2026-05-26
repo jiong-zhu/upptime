@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 219,
-    "timeDay": 165,
-    "timeWeek": 179,
-    "timeMonth": 167,
+    "timeDay": 68,
+    "timeWeek": 172,
+    "timeMonth": 164,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bodensee",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.56%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.04%",
     "time": 707,
-    "timeDay": 597,
-    "timeWeek": 625,
-    "timeMonth": 608,
+    "timeDay": 656,
+    "timeWeek": 615,
+    "timeMonth": 609,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-06-02": 87,
@@ -57,14 +57,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "61.31%",
+    "uptime": "61.32%",
     "uptimeDay": "95.54%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "48.82%",
     "time": 56,
-    "timeDay": 72,
-    "timeWeek": 65,
+    "timeDay": 80,
+    "timeWeek": 67,
     "timeMonth": 77,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -276,10 +276,10 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.04%",
     "time": 707,
-    "timeDay": 762,
-    "timeWeek": 786,
-    "timeMonth": 788,
-    "timeYear": 702,
+    "timeDay": 877,
+    "timeWeek": 792,
+    "timeMonth": 791,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-07-14": 17,
       "2025-08-04": 59,
@@ -313,7 +313,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 1432,
+      "2026-05-26": 254,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -676,8 +677,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
