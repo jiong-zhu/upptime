@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 109,
-    "timeWeek": 163,
-    "timeMonth": 149,
-    "timeYear": 209,
+    "timeDay": 107,
+    "timeWeek": 167,
+    "timeMonth": 150,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-04-20": 82
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
-    "time": 697,
-    "timeDay": 685,
-    "timeWeek": 643,
-    "timeMonth": 523,
-    "timeYear": 699,
+    "time": 696,
+    "timeDay": 347,
+    "timeWeek": 658,
+    "timeMonth": 526,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2025-08-22": 21,
       "2025-09-14": 225,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "62.15%",
+    "uptime": "62.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "48.82%",
     "time": 59,
-    "timeDay": 69,
-    "timeWeek": 71,
-    "timeMonth": 74,
+    "timeDay": 8,
+    "timeWeek": 62,
+    "timeMonth": 73,
     "timeYear": 62,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -275,10 +275,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 722,
-    "timeDay": 907,
-    "timeWeek": 949,
-    "timeMonth": 834,
-    "timeYear": 707,
+    "timeDay": 576,
+    "timeWeek": 978,
+    "timeMonth": 833,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-07-14": 17,
       "2025-08-04": 59,
@@ -301,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "22.60%",
+    "uptime": "22.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -312,7 +312,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 280,
+      "2026-06-29": 287,
+      "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -675,8 +676,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 1440,
-      "2025-06-29": 1440
+      "2025-06-30": 1440
     }
   }
 ]
