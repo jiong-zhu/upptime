@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 113,
-    "timeWeek": 170,
-    "timeMonth": 150,
-    "timeYear": 209,
+    "timeDay": 175,
+    "timeWeek": 161,
+    "timeMonth": 153,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-04-20": 82
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 696,
-    "timeDay": 612,
-    "timeWeek": 619,
-    "timeMonth": 533,
-    "timeYear": 698,
+    "timeDay": 695,
+    "timeWeek": 633,
+    "timeMonth": 548,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-08-22": 21,
       "2025-09-14": 225,
@@ -56,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "62.23%",
+    "uptime": "62.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "48.82%",
     "time": 59,
-    "timeDay": 71,
-    "timeWeek": 56,
-    "timeMonth": 72,
-    "timeYear": 62,
+    "timeDay": 73,
+    "timeWeek": 58,
+    "timeMonth": 74,
+    "timeYear": 63,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -275,9 +275,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 722,
-    "timeDay": 1089,
-    "timeWeek": 881,
-    "timeMonth": 855,
+    "timeDay": 1026,
+    "timeWeek": 939,
+    "timeMonth": 868,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-07-14": 17,
@@ -301,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "22.55%",
+    "uptime": "22.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -312,7 +312,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 282,
+      "2026-07-02": 249,
+      "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -675,8 +676,7 @@
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
-      "2025-07-03": 1440,
-      "2025-07-02": 1440
+      "2025-07-03": 1440
     }
   }
 ]
