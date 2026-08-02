@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 215,
-    "timeDay": 94,
-    "timeWeek": 153,
-    "timeMonth": 153,
+    "time": 214,
+    "timeDay": 152,
+    "timeWeek": 147,
+    "timeMonth": 152,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -31,8 +31,8 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.96%",
     "time": 689,
-    "timeDay": 260,
-    "timeWeek": 583,
+    "timeDay": 704,
+    "timeWeek": 577,
     "timeMonth": 571,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -62,14 +62,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "62.95%",
+    "uptime": "62.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "48.73%",
     "time": 58,
-    "timeDay": 8,
-    "timeWeek": 47,
+    "timeDay": 68,
+    "timeWeek": 50,
     "timeMonth": 45,
     "timeYear": 60,
     "dailyMinutesDown": {
@@ -285,10 +285,10 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.96%",
-    "time": 729,
-    "timeDay": 297,
-    "timeWeek": 829,
-    "timeMonth": 857,
+    "time": 730,
+    "timeDay": 935,
+    "timeWeek": 861,
+    "timeMonth": 855,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-08-04": 59,
@@ -316,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "22.11%",
+    "uptime": "22.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -327,7 +327,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 216,
+      "2026-08-02": 216,
+      "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -690,8 +691,7 @@
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
-      "2025-08-03": 1440,
-      "2025-08-02": 1440
+      "2025-08-03": 1440
     }
   }
 ]
