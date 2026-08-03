@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 214,
-    "timeDay": 152,
-    "timeWeek": 147,
-    "timeMonth": 152,
+    "timeDay": 124,
+    "timeWeek": 155,
+    "timeMonth": 150,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -31,10 +31,10 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.96%",
     "time": 689,
-    "timeDay": 704,
-    "timeWeek": 577,
-    "timeMonth": 571,
-    "timeYear": 687,
+    "timeDay": 536,
+    "timeWeek": 567,
+    "timeMonth": 564,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2025-08-22": 21,
       "2025-09-14": 225,
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "62.98%",
+    "uptime": "63.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "48.73%",
     "time": 58,
-    "timeDay": 68,
-    "timeWeek": 50,
-    "timeMonth": 45,
+    "timeDay": 28,
+    "timeWeek": 45,
+    "timeMonth": 44,
     "timeYear": 60,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -285,11 +285,11 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.96%",
-    "time": 730,
-    "timeDay": 935,
-    "timeWeek": 861,
-    "timeMonth": 855,
-    "timeYear": 718,
+    "time": 733,
+    "timeDay": 2517,
+    "timeWeek": 993,
+    "timeMonth": 906,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-08-04": 59,
       "2025-09-14": 225,
@@ -316,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "22.09%",
+    "uptime": "22.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -327,7 +327,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 216,
+      "2026-08-03": 218,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -690,8 +691,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   }
 ]
