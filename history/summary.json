@@ -62,15 +62,15 @@
     "url": "$KARLSRUHE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
-    "status": "down",
+    "status": "up",
     "uptime": "63.16%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "48.70%",
     "time": 58,
-    "timeDay": 72,
-    "timeWeek": 54,
+    "timeDay": 62,
+    "timeWeek": 53,
     "timeMonth": 44,
     "timeYear": 60,
     "dailyMinutesDown": {
@@ -274,7 +274,7 @@
       "2026-07-24": 67,
       "2026-07-28": 153,
       "2026-08-08": 51,
-      "2026-08-10": 99
+      "2026-08-10": 135
     }
   },
   {
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 141,
+      "2026-08-10": 183,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
