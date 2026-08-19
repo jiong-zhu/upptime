@@ -12,9 +12,9 @@
     "uptimeYear": "99.98%",
     "time": 212,
     "timeDay": 170,
-    "timeWeek": 153,
-    "timeMonth": 152,
-    "timeYear": 200,
+    "timeWeek": 149,
+    "timeMonth": 155,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2026-04-20": 82
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.18%",
     "uptimeYear": "98.94%",
     "time": 705,
-    "timeDay": 5128,
-    "timeWeek": 1703,
-    "timeMonth": 823,
-    "timeYear": 704,
+    "timeDay": 5273,
+    "timeWeek": 1694,
+    "timeMonth": 833,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-08-22": 21,
       "2025-09-14": 225,
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "up",
-    "uptime": "63.32%",
+    "uptime": "63.33%",
     "uptimeDay": "98.51%",
     "uptimeWeek": "93.03%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "48.56%",
     "time": 58,
-    "timeDay": 38,
+    "timeDay": 61,
     "timeWeek": 47,
-    "timeMonth": 47,
+    "timeMonth": 48,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -292,11 +292,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "98.96%",
-    "time": 750,
-    "timeDay": 2529,
-    "timeWeek": 1214,
-    "timeMonth": 1012,
-    "timeYear": 725,
+    "time": 749,
+    "timeDay": 2762,
+    "timeWeek": 1227,
+    "timeMonth": 1016,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -335,7 +335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 706,
+      "2026-08-19": 102,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -698,8 +699,7 @@
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
-      "2025-08-20": 1440,
-      "2025-08-19": 1440
+      "2025-08-20": 1440
     }
   }
 ]
