@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bodensee",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.86%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.89%",
     "time": 701,
     "timeDay": 741,
     "timeWeek": 675,
@@ -57,7 +57,7 @@
       "2026-08-18": 26,
       "2026-08-21": 23,
       "2026-08-23": 32,
-      "2026-08-27": 14
+      "2026-08-27": 253
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "63.52%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "48.55%",
+    "uptime": "63.51%",
+    "uptimeDay": "82.73%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "48.51%",
     "time": 58,
     "timeDay": 50,
     "timeWeek": 54,
@@ -283,7 +283,7 @@
       "2026-08-18": 21,
       "2026-08-21": 19,
       "2026-08-23": 28,
-      "2026-08-27": 10
+      "2026-08-27": 249
     }
   },
   {
@@ -292,11 +292,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "98.95%",
+    "uptime": "98.91%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 758,
     "timeDay": 1822,
     "timeWeek": 1350,
@@ -322,7 +322,7 @@
       "2026-08-08": 46,
       "2026-08-18": 17,
       "2026-08-23": 23,
-      "2026-08-27": 5
+      "2026-08-27": 244
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-27": 292,
+      "2026-08-27": 531,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
