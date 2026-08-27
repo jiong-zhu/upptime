@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 211,
-    "timeDay": 98,
-    "timeWeek": 147,
-    "timeMonth": 148,
-    "timeYear": 192,
+    "timeDay": 220,
+    "timeWeek": 158,
+    "timeMonth": 153,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2026-04-20": 82
     }
@@ -24,16 +24,16 @@
     "url": "$BODENSEE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bodensee",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.93%",
     "time": 701,
-    "timeDay": 661,
-    "timeWeek": 660,
-    "timeMonth": 860,
+    "timeDay": 741,
+    "timeWeek": 675,
+    "timeMonth": 863,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -56,7 +56,8 @@
       "2026-08-08": 55,
       "2026-08-18": 26,
       "2026-08-21": 23,
-      "2026-08-23": 32
+      "2026-08-23": 32,
+      "2026-08-27": 14
     }
   },
   {
@@ -64,16 +65,16 @@
     "url": "$KARLSRUHE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
-    "status": "up",
-    "uptime": "63.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "97.52%",
+    "status": "down",
+    "uptime": "63.52%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "48.55%",
     "time": 58,
-    "timeDay": 69,
-    "timeWeek": 57,
-    "timeMonth": 52,
+    "timeDay": 50,
+    "timeWeek": 54,
+    "timeMonth": 51,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -281,7 +282,8 @@
       "2026-08-14": 236,
       "2026-08-18": 21,
       "2026-08-21": 19,
-      "2026-08-23": 28
+      "2026-08-23": 28,
+      "2026-08-27": 10
     }
   },
   {
@@ -289,17 +291,17 @@
     "url": "$GITLAB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "98.95%",
-    "time": 756,
-    "timeDay": 974,
-    "timeWeek": 1241,
-    "timeMonth": 1137,
-    "timeYear": 736,
+    "time": 758,
+    "timeDay": 1822,
+    "timeWeek": 1350,
+    "timeMonth": 1147,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -319,7 +321,8 @@
       "2026-07-28": 148,
       "2026-08-08": 46,
       "2026-08-18": 17,
-      "2026-08-23": 23
+      "2026-08-23": 23,
+      "2026-08-27": 5
     }
   },
   {
@@ -328,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "21.76%",
+    "uptime": "21.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -339,7 +342,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 106,
+      "2026-08-27": 292,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -702,8 +706,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   }
 ]
