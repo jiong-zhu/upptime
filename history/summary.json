@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 211,
-    "timeDay": 162,
-    "timeWeek": 227,
-    "timeMonth": 165,
+    "time": 212,
+    "timeDay": 401,
+    "timeWeek": 259,
+    "timeMonth": 175,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -31,10 +31,10 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "98.81%",
     "time": 705,
-    "timeDay": 1427,
-    "timeWeek": 937,
-    "timeMonth": 932,
-    "timeYear": 701,
+    "timeDay": 805,
+    "timeWeek": 964,
+    "timeMonth": 947,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 139,
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "63.56%",
-    "uptimeDay": "43.02%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "48.28%",
+    "uptime": "63.55%",
+    "uptimeDay": "5.82%",
+    "uptimeWeek": "80.14%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "48.17%",
     "time": 56,
-    "timeDay": 29,
-    "timeWeek": 43,
-    "timeMonth": 49,
-    "timeYear": 58,
+    "timeDay": 0,
+    "timeWeek": 42,
+    "timeMonth": 50,
+    "timeYear": 59,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -284,7 +284,8 @@
       "2026-08-21": 19,
       "2026-08-23": 28,
       "2026-08-27": 646,
-      "2026-08-31": 820
+      "2026-09-01": 285,
+      "2026-08-31": 1071
     }
   },
   {
@@ -298,11 +299,11 @@
     "uptimeWeek": "90.04%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.76%",
-    "time": 759,
-    "timeDay": 1229,
-    "timeWeek": 1146,
-    "timeMonth": 1183,
-    "timeYear": 746,
+    "time": 762,
+    "timeDay": 1461,
+    "timeWeek": 1251,
+    "timeMonth": 1224,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -344,7 +345,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 1189,
+      "2026-09-01": 285,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -707,8 +709,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   }
 ]
