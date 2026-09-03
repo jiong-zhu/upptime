@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 212,
-    "timeDay": 334,
-    "timeWeek": 293,
-    "timeMonth": 181,
+    "timeDay": 210,
+    "timeWeek": 283,
+    "timeMonth": 184,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -30,11 +30,11 @@
     "uptimeWeek": "93.55%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "98.81%",
-    "time": 704,
-    "timeDay": 425,
-    "timeWeek": 935,
-    "timeMonth": 939,
-    "timeYear": 701,
+    "time": 705,
+    "timeDay": 597,
+    "timeWeek": 897,
+    "timeMonth": 941,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 139,
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "63.51%",
+    "uptime": "63.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.23%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "47.91%",
+    "uptimeWeek": "51.97%",
+    "uptimeMonth": "86.81%",
+    "uptimeYear": "47.63%",
     "time": 56,
     "timeDay": 0,
     "timeWeek": 38,
-    "timeMonth": 50,
+    "timeMonth": 51,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2025-09-14": 225,
@@ -284,7 +284,8 @@
       "2026-08-21": 19,
       "2026-08-23": 28,
       "2026-08-27": 646,
-      "2026-09-02": 247,
+      "2026-09-03": 245,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1071
     }
@@ -300,11 +301,11 @@
     "uptimeWeek": "90.04%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.76%",
-    "time": 762,
-    "timeDay": 779,
-    "timeWeek": 1232,
-    "timeMonth": 1220,
-    "timeYear": 749,
+    "time": 764,
+    "timeDay": 1343,
+    "timeWeek": 1242,
+    "timeMonth": 1189,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2025-09-14": 225,
       "2025-09-13": 137,
@@ -335,7 +336,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "21.66%",
+    "uptime": "21.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -346,7 +347,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 247,
+      "2026-09-03": 245,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -709,8 +711,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   }
 ]
