@@ -63,13 +63,13 @@
     "url": "$KARLSRUHE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
-    "status": "up",
-    "uptime": "63.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.32%",
+    "status": "down",
+    "uptime": "63.46%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "68.31%",
     "uptimeYear": "45.99%",
-    "time": 57,
+    "time": 56,
     "timeDay": 52,
     "timeWeek": 53,
     "timeMonth": 49,
@@ -289,7 +289,8 @@
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
-      "2026-08-31": 1071
+      "2026-08-31": 1071,
+      "2026-09-19": 5
     }
   },
   {
@@ -336,7 +337,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "21.43%",
+    "uptime": "21.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -347,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 257,
+      "2026-09-19": 1386,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
