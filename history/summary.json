@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 214,
-    "timeDay": 201,
-    "timeWeek": 199,
-    "timeMonth": 223,
+    "timeDay": 207,
+    "timeWeek": 197,
+    "timeMonth": 224,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-04-20": 82
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.61%",
     "time": 699,
-    "timeDay": 610,
-    "timeWeek": 667,
-    "timeMonth": 678,
+    "timeDay": 646,
+    "timeWeek": 676,
+    "timeMonth": 676,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2025-11-07": 43,
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "62.08%",
+    "uptime": "62.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -246,7 +246,6 @@
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
-      "2025-10-26": 1440,
       "2026-04-19": 93,
       "2026-04-27": 157,
       "2026-05-17": 152,
@@ -275,7 +274,8 @@
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1071,
-      "2026-10-25": 1164,
+      "2026-10-26": 262,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -325,11 +325,11 @@
     "uptimeWeek": "97.03%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.56%",
-    "time": 916,
-    "timeDay": 2078,
-    "timeWeek": 1982,
-    "timeMonth": 2559,
-    "timeYear": 944,
+    "time": 918,
+    "timeDay": 1481,
+    "timeWeek": 2093,
+    "timeMonth": 2578,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-11-07": 60,
       "2025-12-03": 89,
@@ -355,7 +355,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "down",
-    "uptime": "20.96%",
+    "uptime": "20.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -366,7 +366,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 1164,
+      "2026-10-26": 262,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -729,8 +730,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   }
 ]
