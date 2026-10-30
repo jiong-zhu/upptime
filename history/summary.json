@@ -24,11 +24,11 @@
     "url": "$BODENSEE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bodensee",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.56%",
     "time": 704,
     "timeDay": 929,
@@ -53,7 +53,8 @@
       "2026-08-27": 650,
       "2026-10-20": 156,
       "2026-10-25": 153,
-      "2026-10-28": 297
+      "2026-10-28": 297,
+      "2026-10-30": 6
     }
   },
   {
@@ -62,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karlsruhe",
     "status": "down",
-    "uptime": "61.92%",
+    "uptime": "61.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -271,7 +272,7 @@
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1071,
-      "2026-10-30": 325,
+      "2026-10-30": 541,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -320,11 +321,11 @@
     "url": "$GITLAB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.51%",
     "time": 942,
     "timeDay": 1575,
@@ -348,7 +349,8 @@
       "2026-08-31": 363,
       "2026-10-20": 151,
       "2026-10-25": 148,
-      "2026-10-28": 292
+      "2026-10-28": 292,
+      "2026-10-30": 5
     }
   },
   {
@@ -368,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 325,
+      "2026-10-30": 541,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
